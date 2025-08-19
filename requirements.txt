@@ -1,0 +1,17 @@
+# Core
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Deep Learning
+tensorflow==2.16.1
+# torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0   # <- opzionale, se vuoi provare anche PyTorch
+
+# Image Processing
+opencv-python
+Pillow
+
+# Web App (opzionale per demo)
+streamlit
+flask
